@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Programming Languages:
-* ![Clang](https://www.clipartmax.com/png/small/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png)
+* ![Clang](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
 
 <!--
 **DarthData410/DarthData410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
