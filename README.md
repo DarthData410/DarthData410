@@ -7,7 +7,7 @@ Programming Languages:
 
 Actively working on:
 
-<a href="https://github.com/ObEngine/ObEngine"><img src="https://repository-images.githubusercontent.com/55010544/a28f9780-8670-11ea-8604-52cb194191cb" height="20%" width="40%"></a>
+<a href="https://github.com/ObEngine/ObEngine"><img src="https://repository-images.githubusercontent.com/55010544/a28f9780-8670-11ea-8604-52cb194191cb" height="20%" width="35%"></a>
 
 
 
