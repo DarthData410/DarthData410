@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Programming Languages:
-* ![Clang](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
+
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="102" height="114">
 
 <!--
 **DarthData410/DarthData410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
